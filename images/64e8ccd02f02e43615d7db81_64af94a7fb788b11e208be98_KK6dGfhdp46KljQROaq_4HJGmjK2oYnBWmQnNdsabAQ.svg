@@ -1,0 +1,40 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1473_3930)">
+<path d="M19.25 29.75C20.9806 29.75 22.6723 30.2632 24.1112 31.2246C25.5502 32.1861 26.6717 33.5527 27.3339 35.1515C27.9962 36.7504 28.1695 38.5097 27.8319 40.207C27.4943 41.9044 26.6609 43.4635 25.4372 44.6872C24.2135 45.9109 22.6544 46.7443 20.957 47.0819C19.2597 47.4195 17.5004 47.2462 15.9015 46.5839C14.3027 45.9217 12.9361 44.8002 11.9746 43.3612C11.0132 41.9223 10.5 40.2306 10.5 38.5V37.0278" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.7477 37.625H13.9977C11.5191 37.6272 9.11969 36.7526 7.22398 35.1558C5.32827 33.5591 4.05854 31.3432 3.63947 28.9003C3.2204 26.4574 3.67903 23.945 4.93419 21.8078C6.18935 19.6705 8.16011 18.0462 10.4977 17.2222V15.75C10.4977 13.4294 11.4196 11.2038 13.0605 9.56282C14.7015 7.92187 16.9271 7 19.2477 7C21.5684 7 23.794 7.92187 25.4349 9.56282C27.0758 11.2038 27.9977 13.4294 27.9977 15.75V38.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.25 24.5H13.125C14.7495 24.5 16.3074 23.8547 17.456 22.706C18.6047 21.5574 19.25 19.9995 19.25 18.375V17.5" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="33.5" cy="6.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="11.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="16.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="21.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="26.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="31.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="36.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="41.5" r="1.5" fill="black"/>
+<circle cx="33.5" cy="46.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="6.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="11.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="11.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="16.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="16.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="21.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="21.5" r="1.5" fill="black"/>
+<circle cx="51.5" cy="21.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="26.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="26.5" r="1.5" fill="black"/>
+<circle cx="51.5" cy="26.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="31.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="31.5" r="1.5" fill="black"/>
+<circle cx="51.5" cy="31.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="36.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="36.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="41.5" r="1.5" fill="black"/>
+<circle cx="45.5" cy="41.5" r="1.5" fill="black"/>
+<circle cx="39.5" cy="46.5" r="1.5" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1473_3930">
+<rect width="56" height="56" fill="white"/>
+</clipPath>
+</defs>
+</svg>
